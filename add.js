@@ -66,5 +66,5 @@ export default async function addData(info) {
     });
   }
   
-queryDB(addData);
+//queryDB(addData);
  // addData(info);

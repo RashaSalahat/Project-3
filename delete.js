@@ -35,4 +35,4 @@ export default async function deleteMovie(info) {
     console.log("Something went wrong!", error);
   }
 }
-queryDB(deleteMovie);
+//queryDB(deleteMovie);

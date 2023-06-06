@@ -87,4 +87,4 @@ export default async function searchData(info) {
 
 
 
-queryDB(searchData)
+//queryDB(searchData)

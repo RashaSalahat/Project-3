@@ -43,4 +43,4 @@ export default async function add(info) {
     });
   }
   
-queryDB(add);
+//queryDB(add);
